@@ -1,0 +1,22 @@
+{
+  "name": "average-number",
+  "version": "2.0.3",
+  "description": "average-number by BavYash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BavYash/AverageNumber.git"
+  },
+  "keywords": [
+    "average-number"
+  ],
+  "author": "BavYash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BavYash/AverageNumber/issues"
+  },
+  "homepage": "https://github.com/BavYash/AverageNumber#readme"
+}
